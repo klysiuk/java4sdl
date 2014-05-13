@@ -20,3 +20,5 @@ Mark Vlasenko
 Mykhailo Sapiegin			
 Volodymyr Lezhnenko			
 Maxim Chireychik
+Olga Kovalyshyn
+Veronika Pliuslina
