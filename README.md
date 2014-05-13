@@ -3,7 +3,7 @@ java4sdl
 
 Java Courses part. Here you're able to get homework and clone practical lessons.
 
-#List of future lectures:
+List of future lectures:
 
 J00 Introduction.
 J01 Version Control System. Git
