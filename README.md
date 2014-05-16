@@ -5,8 +5,8 @@ Java Courses part. Here you're able to get homework and clone practical lessons.
 
 <code>TOP-5</code> students
 ------------
-1. Yaroslav Danylchenko - 15 points
-2. --
+1. Yaroslav Danylchenko - 13 points
+2. Maxim Chireychik, Nataliia Striukova, Volodymyr Tarasyuk - 8 points 
 3. --
 4. --
 5. --
