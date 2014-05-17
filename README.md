@@ -14,6 +14,7 @@ Evgen Bruhov, Andriy Bilotskyy - 8 points
 
 <code>Strike List</code>
 3 strikes - you're out (only lectures available).
+------------
 1. Andriy Zhidko - 1 strike
 2. Ivan Maidaniuk - 1 strike
 3. Andrii Rasskazov - 1 strike
