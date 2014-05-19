@@ -12,12 +12,6 @@ Java Courses part. Here you're able to get homework and clone practical lessons.
 5. Alina Keda, Andriy Bilotskyy,  - 24 points
 
 
-2. Maxim Chireychik, Nataliia Striukova, Volodymyr Tarasyuk, Alina Keda,
-Evgen Bruhov, Andriy Bilotskyy - 8 points 
-3. Others, except strike list - 4 
-4. --
-5. --
-
 <code>Strike List</code> 3 strikes - you're out (only lectures available).
 ------------
 1. Andrii Rasskazov - 1 strike
